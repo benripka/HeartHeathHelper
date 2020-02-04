@@ -1,0 +1,4 @@
+#Mon Feb 03 15:07:59 MST 2020
+base.0=E\:\\benripka\\Documents\\Courses\\Win2020\\Cmput301\\HeartHealthHelper\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,6 @@
+
+
+Room + ViewModel : https://www.youtube.com/watch?v=RhGMd8SsA14&t=618s
+
+Swipe to Delete : https://www.journaldev.com/23164/android-recyclerview-swipe-to-delete-undo
+

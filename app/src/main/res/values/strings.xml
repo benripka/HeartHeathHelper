@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bripka-CardioBook</string>
+    <string name="modify_reading_dialog_message">What would you like to do?</string>
+    <string name="modify_reading_dialog_title">Modify Reading</string>
+    <string name="bad_reading_message">"Your blood pressure readings seem to be out of the normal range. Please refer to the chart for expected values and consider consulting a physician."</string>
+    <string name="good_reading_message">Your blood pressure readings seem to be just fine. For more information please refer to the chart below.</string>
+</resources>
