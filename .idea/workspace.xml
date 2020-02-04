@@ -10,7 +10,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bb38e91-9cbe-4808-963a-e78b01c91720" name="Default Changelist" comment="" />
+    <list default="true" id="3bb38e91-9cbe-4808-963a-e78b01c91720" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/hearthealthhelper/EditReadingActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="76" column="70" lean-forward="true" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
+            <state relative-caret-position="254">
+              <caret line="112" column="40" lean-forward="true" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,7 +164,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -193,6 +205,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/add_reading_activity.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/hearthealthhelper/ReadingListAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/hearthealthhelper/EditReadingActivity.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -210,7 +223,17 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
-      <pane id="AndroidView" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heart Health Helper" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -231,7 +254,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
@@ -373,10 +396,10 @@
       <window_info id="Resources Explorer" order="7" weight="0.3295302" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="simpleUML" order="9" sideWeight="0.49753696" weight="0.8751678" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.19436997" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.19436997" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.2922252" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.3297587" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.51742625" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.31367293" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" weight="0.3297587" />
@@ -820,17 +843,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/hearthealthhelper/EditReadingActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="254">
+          <caret line="112" column="40" lean-forward="true" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/hearthealthhelper/EditReadingActivity.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="76" column="70" lean-forward="true" selection-start-line="76" selection-start-column="70" selection-end-line="76" selection-end-column="70" />
+        <state relative-caret-position="80">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
